@@ -1,0 +1,22 @@
+   .sobremi{ position: absolute; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr;
+     display: flex; flex-direction: column; padding-top: 5%;
+     width: 300px; background-color:rgb(52, 138, 250); 
+     height: 100%;text-align: center; left:0  }
+
+    .imgperfil img{  margin-left: 15px; left: 0px; width: 190px; border-radius: 70%; margin-top: 10px; margin-bottom : 20px; text-align: center; border: 5px solid white;}
+     
+     ul,li{list-style: none ;
+       text-align: justify;}
+     h1{ text-align: center; color: white ;font-size: 2rem;}
+      .naranja,.description,.lenguaje,.idioma,.idioma,.estudio,.Experiencia{
+        display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr;
+        display: flex;flex-direction: column;
+        position: right, relative; margin-top: auto;
+        margin-bottom: 20px;margin-left: 380px;
+        margin-right: 80px; grid: templ;right: 0; text-align: justify;
+      }
+
+     .naranja{ margin-bottom: 20px; margin-left: 30px; margin-right: 50px}
+     
+      
+       
